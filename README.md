@@ -40,7 +40,10 @@ Texte inversé : !lufrewop si INJ
 Somme du tableau = 150
 ```
 <img width="620" height="443" alt="Screenshot 2026-05-10 135022" src="https://github.com/user-attachments/assets/55fa3872-0d70-4f8b-832a-c1b8d1cc8504" />
+## patie lab23
 
+<img width="960" height="499" alt="Screenshot 2026-05-10 142658" src="https://github.com/user-attachments/assets/a719a78d-baee-477c-9680-23fe2532250d" />
+ 
 
 ## Setup
 
